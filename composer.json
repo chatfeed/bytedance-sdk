@@ -1,0 +1,17 @@
+{
+    "name": "chatfeed/byte-dance-sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chatfeed",
+            "email": "chatfeed@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BytedanceSDK\\":"src/"
+        }
+    },
+    "require": {}
+}
